@@ -244,7 +244,7 @@ This is an **educational prototype, not a diagnostic tool.**
 |--------|----------------------|
 | R.G.S.M. Rathwella | Model training, hyperparameter tuning, final model comparison |
 | R.G.G.M.N. Rajapaksha | Data exploration, Decision Tree and tuning |
-| **E.S. Wijerathne** | **Data preprocessing, feature selection, Gaussian Naive Bayes and tuning** |
+| **E.N.S. Wijerathne** | **Data preprocessing, feature selection, Gaussian Naive Bayes and tuning** |
 | D.B. Senarathna | Random Forest baseline, model evaluation and comparison |
 
 Full methodology, tables and discussion are in the [project report](03_Report/).
