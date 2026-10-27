@@ -167,7 +167,7 @@ The final pipeline accepts all 8 raw clinical inputs, applies imputation, scalin
 
 ## My Contribution
 
-**Member 3 – E.S. Wijerathne**
+**Member 3 – E.N.S. Wijerathne**
 
 I owned two parts of the shared pipeline:
 
